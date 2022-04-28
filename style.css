@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --colorHeader: #6f42c1;
+}
+.header{
+    width: 100vw;
+    height: 13vh;
+    background-color: var(--colorHeader);
+}
+.footer{
+    margin-top: 80vh;
+    width: 100vw;
+    height: 13vh;
+    background-color: var(--colorHeader);
+}
+.infoVest{
+    background-color: #6f42c1;
+    height: 50px;
+    margin-top: 20px;
+}
