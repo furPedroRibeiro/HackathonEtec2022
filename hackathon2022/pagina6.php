@@ -46,7 +46,7 @@ session_start();
 								echo 'Você é apto para fazer qualquer um dos cursos, fique mais a vontade na escolha :p <br><br>';
 							}
 						 ?>
-						<button class="btn btn-danger"><a href="index.html" style="text-decoration: none; color: white;">Sair</a></button>
+						<button class="btn btn-danger" style="background-color: #6f42c1; border: #6f42c1;"><a href="index.html" style="text-decoration: none; color: white;">Sair</a></button>
 					</fieldset>
 				</form>
 			</div>

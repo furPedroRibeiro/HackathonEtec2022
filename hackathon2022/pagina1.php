@@ -18,7 +18,7 @@
 			<form method="post">
 				Digite seu nome: <input type="text" name="nome">
 				<br><br>
-				<button class="btn btn-danger">Entrar</button>
+				<button class="btn btn-danger" style="background-color: #6f42c1; border: #6f42c1;">Entrar</button>
 			</form>
 		</div>
 	</div>

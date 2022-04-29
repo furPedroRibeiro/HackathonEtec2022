@@ -36,7 +36,7 @@
 						<option value="p4Jodi">Criatividade e genialidade, sabe agradar a maioria</option>
 					</select>
 					<br><br>
-					<button class="btn btn-danger">Próxima</button>
+					<button class="btn btn-danger" style="background-color: #6f42c1; border: #6f42c1;">Próxima</button>
 				</fieldset>
 			</form>
 		</div>
